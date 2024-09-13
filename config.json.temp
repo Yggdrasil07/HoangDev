@@ -1,0 +1,235 @@
+{
+  "language": "vi",
+  "keyActive": "",
+  "DeveloperMode": false,
+  "encryptAppstate": true,
+  "autoCreateDB": true,
+  "notiGroup": false,
+  "allowInbox": true,
+  "autoClean": true,
+  "adminOnly": false,
+  "keyAdminOnly": "5vw4NsqN9j",
+  "commandDisabled": [
+    "",
+    "capcut.js"
+  ],
+  "eventDisabled": [
+    ""
+  ],
+  "UPTIME": 100801342.77614178,
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "𝒀𝒈𝒈𝒅𝒓𝒂𝒔𝒊𝒍♛☯",
+  "PREFIX": "$",
+  "ADMINBOT": [
+    "100027248830437",
+    "100075198002506",
+    "100084853067756",
+    "61550521925292"
+  ],
+  "NDH": [
+    "100027248830437",
+    "100075198002506",
+    ""
+  ],
+  "DATABASE": {
+    "sqlite": {
+      "storage": "data.sqlite"
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "pauseLog": true,
+    "logLevel": "error",
+    "selfListen": true
+  },
+  "DESIGN": {
+    "Theme": "Flower",
+    "Admin": "Trần Văn Tân",
+    "Setup": {
+      "Theme": "Mày có thể dùng các theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "autoCleanCache": {
+    "Enable": true,
+    "CachePath": "./modules/commands/cache",
+    "AllowFileExtension": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".mp4",
+      ".mp3",
+      ".m4a",
+      ".ttf",
+      ".gif"
+    ]
+  },
+  "checktt": {
+    "maxColumn": 10
+  },
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 2000000
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "rname": {
+    "APIKEY": "mi451266190"
+  },
+  "shortlink": {
+    "bitlyAPI": ""
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c",
+    "ytdl-core": "",
+    "fs-extra": "",
+    "simple-youtube-api": "",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c",
+    "ytdl-core": "",
+    "fs-extra": "",
+    "simple-youtube-api": ""
+  },
+  "weather": {
+    "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+  },
+  "work": {
+    "cooldownTime": 12000000
+  },
+  "log": {
+    "enable": true
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 10
+  },
+  "rank": {
+    "APIKEY": "4190673504322388|JbmK4q73rmJW1rlShL8zhfWxuFM"
+  },
+  "ghep": {
+    "API": "af9ffe1bdb70e97f05dc8110cecad248c4bb925b1b52cdd6852750c0e77dba8b"
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "timeToUnsend": 10,
+    "sendNoti": false
+  },
+  "version": "1.2.14",
+  "pokemon": {
+    "APIKEY": ""
+  },
+  "adminPaseOnly": true,
+  "duaxe": {
+    "key": "heyzer"
+  },
+  "subnautica": {
+    "APIKEY": ""
+  },
+  "xidach": {
+    "maxPlayers": 5,
+    "normalWinBonus": 1,
+    "superWinBonus": 2,
+    "epicWinBonus": 4
+  },
+  "banksv": {
+    "key": "DUBFREE"
+  },
+  "cave": {
+    "cooldownTime": 1000000
+  },
+  "checknude": {
+    "maxColumn": 10
+  },
+  "xidachnb": {
+    "maxPlayers": 5,
+    "normalWinBonus": 1,
+    "superWinBonus": 2,
+    "epicWinBonus": 4
+  },
+  "zombie": {
+    "cooldownTime": 1200000
+  },
+  "ndhOnly": false,
+  "audio": {
+    "YOUTUBE_API": "AIzaSyAPOLxogXUimECrUGr-2oFLoHk7B4XyAOY",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "adminPersonalOnly": false,
+  "hunter": {
+    "userToken": "D7tTFhgD",
+    "adminToken": "ZkSy3UsT"
+  },
+  "sing1": {
+    "YOUTUBE_API": "AIzaSyAPOLxogXUimECrUGr-2oFLoHk7B4XyAOY",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "rankup": {
+    "autoUnsend": true,
+    "unsendMessageAfter": 20
+  },
+  "cavevip": {
+    "cooldownTime": 1200000
+  },
+  "sim": {
+    "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+  },
+  "lixi": {
+    "cooldownTime": 1200000
+  },
+  "loto": {
+    "maxPlayers": 10,
+    "getDelay": 4
+  },
+  "music": {
+    "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+  },
+  "nhanluot": {
+    "cooldownTime": 21600000,
+    "rewardCoin": 10000
+  },
+  "ảnh": {
+    "cooldownTime": 1200000
+  },
+  "cavev2": {
+    "cooldownTime": 60
+  },
+  "video2": {
+    "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 10,
+    "sendAttachments": {
+      "status": true,
+      "random": true,
+      "url": "https://i.imgur.com/CkzHj2y.jpeg"
+    }
+  },
+  "ảnh2": {
+    "cooldownTime": 1200000
+  },
+  "yt": {
+    "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+  },
+  "menu1": {
+    "autoUnsend": {
+      "status": true,
+      "timeOut": 60
+    },
+    "sendAttachments": {
+      "status": true,
+      "random": true,
+      "url": "https://i.imgur.com/JCq3ZWK.gif"
+    }
+  },
+  "anh": {
+    "cooldownTime": 1200000
+  },
+  "allspadmOnly": false
+}

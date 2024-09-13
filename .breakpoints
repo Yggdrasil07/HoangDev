@@ -1,0 +1,36 @@
+{
+  "files": {
+    "modules/commands/autosendmessage.js": [
+      {
+        "id": "f6eccbae-8dfc-4718-b801-cbcbf76a9e5f",
+        "line": 1,
+        "version": 1494,
+        "index": 0
+      }
+    ],
+    "modules/commands/dating.js": [
+      {
+        "id": "4ffe7b16-ef4a-4e93-a431-fbdc534d427a",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/kanna.js": [
+      {
+        "id": "67716dc2-9e3a-41b9-a15d-a2b94faef007",
+        "line": 15,
+        "version": 1,
+        "index": 381
+      }
+    ],
+    "modules/events/joinNoti.js": [
+      {
+        "id": "f8a84ec8-5369-4402-a8c0-2021160e7a8c",
+        "line": 1,
+        "version": 13,
+        "index": 0
+      }
+    ]
+  }
+}
