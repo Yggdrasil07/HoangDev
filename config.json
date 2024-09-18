@@ -8,7 +8,7 @@
     "allowInbox": true,
     "autoClean": true,
     "adminOnly": false,
-    "keyAdminOnly": "5vw4NsqN9j",
+    "keyAdminOnly": "yggdrasil07",
     "commandDisabled": [
         "",
         "capcut.js"
@@ -20,17 +20,17 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝒀𝒈𝒈𝒅𝒓𝒂𝒔𝒊𝒍♛☯",
-    "PREFIX": "$",
+    "BOTNAME": "𝒴𝓰𝓰𝓭𝓻𝓪𝓼𝓲𝓵☭",
+    "PREFIX": "H",
     "ADMINBOT": [
         "100027248830437",
-        "100075198002506",
-        "100084853067756",
-        "61550521925292"
+        "",
+        "",
+        ""
     ],
     "NDH": [
         "100027248830437",
-        "100075198002506",
+        "",
         ""
     ],
     "DATABASE": {
