@@ -1,4 +1,4 @@
-{ 
+8{ 
      "FCAOption": { 
          "forceLogin": true, 
          "listenEvents": true, 
@@ -29,9 +29,6 @@
     ],
     "version": "2.0.0",
     "subnautica": {
-        "APIKEY": ""
-    },
-    "sub": {
         "APIKEY": ""
     }
 }
