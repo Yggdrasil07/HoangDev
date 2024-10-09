@@ -1,34 +1,15 @@
-{ 
-     "FCAOption": { 
-         "forceLogin": true, 
-         "listenEvents": true, 
-         "pauseLog": true, 
-         "logLevel": "silent", 
-         "selfListen": true, 
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0" 
-     },
-     "iconUnsend": { 
-         "status": true, 
-         "icon": "😠" 
-     }, 
-    "language": "vi",
-    "keyActive": "",
-    "DeveloperMode": false,
-    "autoCreateDB": true,
-    "allowInbox": true,
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "𝒴𝓰𝓰𝓭𝓻𝓪𝓼𝓲𝓵☭-V3",
-    "PREFIX": "$",
-    "ADMINBOT": [],
-    "NDH": [
-        "100027248830437"
-    ],
-    "version": "2.0.0",
-    "subnautica": {
-        "APIKEY": ""
-    }
-}
+module.exports.config = { 
+         name: "echo", 
+         version: "1.0.0", 
+         hasPermssion: 0, 
+         credits: "", 
+         description: "Trả lời tin nhắn theo yc", 
+         commandCategory: "Admin", 
+         usages: "", 
+         cooldowns: 5,
+         prefix: false
+ }; 
+  
+ module.exports.run = async function({ api, event, args }) { 
+                 return api.sendMessage(args.join(" "), event.threadID); 
+ }
